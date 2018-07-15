@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeRESTXMLService", "WelcomeRESTXMLService\WelcomeRESTXMLService.csproj", "{4D989D22-E4CC-40E9-88D9-DA247C0184C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeRESTXMLClient", "WelcomeRESTXMLClient\WelcomeRESTXMLClient.csproj", "{A3D56493-F804-4EDA-BB31-F0A251617C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D989D22-E4CC-40E9-88D9-DA247C0184C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D989D22-E4CC-40E9-88D9-DA247C0184C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D989D22-E4CC-40E9-88D9-DA247C0184C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D989D22-E4CC-40E9-88D9-DA247C0184C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D56493-F804-4EDA-BB31-F0A251617C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D56493-F804-4EDA-BB31-F0A251617C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D56493-F804-4EDA-BB31-F0A251617C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D56493-F804-4EDA-BB31-F0A251617C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51C92ED7-6C92-4CDB-A5DD-AF24F291FC80}
+	EndGlobalSection
+EndGlobal
